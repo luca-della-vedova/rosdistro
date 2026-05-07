@@ -8446,6 +8446,7 @@ nlohmann-json-dev:
   ubuntu:
     '*': [nlohmann-json3-dev]
     bionic: [nlohmann-json-dev]
+    resolute: [nlohmann-json3.12-dev]
 nmap:
   arch: [nmap]
   debian: [nmap]
